@@ -16,7 +16,7 @@ In this lab, I will show how to disable NLA with a GPO so you can proceed with e
 - Remote Desktop
 - Active Directory Domain Services
 - VMWare (or Oracle Virtualbox)
-- Command Prompt or Windows Powershell
+- Command Prompt
 
 <h2>Operating Systems Used </h2>
 
